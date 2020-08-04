@@ -131,6 +131,10 @@
         justify-content: flex-start;
     }
 
+    .total-connections img {
+        margin-left: 0.8rem;
+    }
+
     .total-connections {
         grid-area: total;
         justify-self: end;
