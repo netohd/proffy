@@ -2,7 +2,7 @@
 Web application developed during the NLW OmniStack trail offered by the Rocketseat study platform
 
 # Deploy
-Available soon
+https://proffy.vercel.app/
 
 # Graphic interface
 ![Landing](https://imgur.com/f007TDi.png)
